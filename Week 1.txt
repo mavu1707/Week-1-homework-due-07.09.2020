@@ -1,0 +1,14 @@
+﻿'Week 1 homework due 07.09.2020.exe' (Win32): Loaded 'C:\Users\marku\OneDrive\Skrivebord\Visual studio\Week 1 homework due 07.09.2020\Debug\Week 1 homework due 07.09.2020.exe'. Symbols loaded.
+'Week 1 homework due 07.09.2020.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'Week 1 homework due 07.09.2020.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'Week 1 homework due 07.09.2020.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'Week 1 homework due 07.09.2020.exe' (Win32): Loaded 'C:\Program Files\Norton Security\NortonData\22.19.8.65\Definitions\BASHDefs\20200901.001\UMEngx86.dll'. 
+'Week 1 homework due 07.09.2020.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'Week 1 homework due 07.09.2020.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'Week 1 homework due 07.09.2020.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0x4c70 has exited with code 0 (0x0).
+The thread 0x2db0 has exited with code -1073741510 (0xc000013a).
+The thread 0x4838 has exited with code -1073741510 (0xc000013a).
+The thread 0x2be8 has exited with code -1073741510 (0xc000013a).
+The thread 0x2804 has exited with code -1073741749 (0xc000004b).
+The program '[18668] Week 1 homework due 07.09.2020.exe' has exited with code -1073741510 (0xc000013a).
